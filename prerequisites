@@ -1,0 +1,4 @@
+step 1:To use this projects you need to download selenium chromedriver which is included in this repo or visit https://sites.google.com/a/chromium.org/chromedriver/downloads and download version which suooprts your chrome(download according to ypur chrome version)
+step2: add all the proper data required in the xlsx sheet.
+step3: to see notifications of this projects, turn on notifications in pc.
+http://allselenium.info/python-selenium-commands-cheat-sheet-frequently-used/
